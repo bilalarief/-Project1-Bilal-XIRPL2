@@ -1,6 +1,6 @@
 package id.pbo.classes;
 
-public class menu {
+public class Menu {
     private String nama_menu;
     private double harga;
     private String kategori;
